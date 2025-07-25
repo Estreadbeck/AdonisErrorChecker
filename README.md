@@ -1,5 +1,10 @@
 Adonis 3D Error Checker
 
+Needs node installed
+pull down code
+run `npm install`
+then run `npm start`
+
 ### `npm start`
 
 Runs the app in the development mode.\
